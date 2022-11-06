@@ -45,3 +45,4 @@
 |주차|1|2|3|4|
 |:---:|:---:|:---:|:---:|:---:|
 |**1주차**<br> (11.03 ~ 11.06)|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|[배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)||
+|**2주차**<br> (11.07 ~ 11.13)|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|[369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)|
