@@ -51,4 +51,5 @@
 |**5주차**<br> (11.28 ~ 12.04)|[길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|[여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|
 |**6주차**<br> (12.05 ~ 12.11)|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|
 |**7주차**<br> (12.12 ~ 12.18)|[표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)|[]()|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|[]()|
+|**8주차**<br> (12.19 ~ 12.25)|[보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|[]()|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|[]()|
 
