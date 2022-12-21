@@ -11,5 +11,3 @@ def solution(a, b):
         
     for i in range(n_s, n_l+1):
         s += i
-    
-    return s
