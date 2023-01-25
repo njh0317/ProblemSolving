@@ -52,4 +52,4 @@
 |**6주차**<br> (12.05 ~ 12.11)|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|
 |**7주차**<br> (12.12 ~ 12.18)|[표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)|[2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|[최댓값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120847)|
 |**8주차**<br> (12.19 ~ 12.25)|[보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|[대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)|
-|**9주차**<br> (1.23 ~ 1.29)|||||
+|**9주차**<br> (1.30 ~ 2.5)|||||
